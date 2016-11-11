@@ -123,7 +123,7 @@
 
 ---
 
-## Más información en
+## More information at
 
 _[mattdark.github.io](https://mattdark.github.io)_
 
